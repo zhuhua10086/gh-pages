@@ -1,3 +1,8 @@
+<template>
+  <view>
+    <router-link to="/login">跳转到登录页面</router-link>
+  </view>
+</template>
 
 
 <script>
