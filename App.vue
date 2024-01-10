@@ -1,4 +1,7 @@
 <template>
+	<view>
+		534543
+	</view>
   <view>
     <router-link to="/login">跳转到登录页面</router-link>
   </view>
@@ -9,7 +12,7 @@
 	import routingIntercept from '@/router/index.js'
 	export default {
 		onLaunch: function() {
-			routingIntercept();
+			//routingIntercept();
 		
 		},
 		onShow: function() {
