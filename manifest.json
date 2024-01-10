@@ -1,6 +1,6 @@
 {
     "name" : "uniapp-vue3-ui",
-    "appid" : "__UNI__A1D0ECE",
+    "appid" : "__UNI__A2E1E0A",
     "description" : "",
     "versionName" : "1.0.0",
     "versionCode" : "100",
@@ -91,11 +91,11 @@
     "vueVersion" : "3",
     "h5" : {
         "devServer" : {
-            "https" : true
+            "https" : false
         },
-        "title" : "ohh",
+        "title" : "",
         "router" : {
-            "base" : "/gh-pages"
+            "base" : "/gh-pages/"
         },
         "sdkConfigs" : {
             "maps" : {
@@ -104,6 +104,6 @@
                 }
             }
         },
-        "template" : "index.html"
+        "template" : ""
     }
 }
