@@ -104,6 +104,6 @@
                 }
             }
         },
-        "template" : "App.vue"
+        "template" : "index.html"
     }
 }
