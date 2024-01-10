@@ -9,7 +9,7 @@
 
 
 <script>
-	import routingIntercept from '@/router/index.js'
+	//import routingIntercept from '@/router/index.js'
 	export default {
 		onLaunch: function() {
 			//routingIntercept();
