@@ -1,3 +1,5 @@
+
+
 <script>
 	import routingIntercept from '@/router/index.js'
 	export default {
