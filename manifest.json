@@ -95,7 +95,7 @@
         },
         "title" : "ohh",
         "router" : {
-            "base" : "/ohh"
+            "base" : "/gh-pages"
         },
         "sdkConfigs" : {
             "maps" : {
@@ -103,6 +103,7 @@
                     "key" : "TKUBZ-D24AF-GJ4JY-JDVM2-IBYKK-KEBCU"
                 }
             }
-        }
+        },
+        "template" : "App.vue"
     }
 }
